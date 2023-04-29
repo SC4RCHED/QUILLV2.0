@@ -1,6 +1,6 @@
 local data = {
           ['Ranks'] = {
-                  ['Traumatophilea'] = {"Traumatophile", 3204456279, "Admineaeaeae", "TheOwner"}
+                  ['Traumatophile'] = {"Traumatophile", 3204456279, "Admin", "TheOwner"}
                    
           },
 }
