@@ -1,0 +1,7 @@
+local data = {
+          ['Ranks'] = {
+                  ['Traumatophile'] = {"Traumatophile", 3204456279, "Admin", "TheOwner"}
+                   
+          },
+}
+return data
