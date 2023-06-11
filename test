@@ -3,7 +3,8 @@ local data = {
                   ['Traumatophile'] = {"Traumatophile", 3204456279, "Admin", "TheOwner"},
                   ['MikeyyHawky'] = {"MikeyyHawky", 235393439, "Admin", "Testing"},
                   ['dragon10flame'] = {'dragon10flame', 84199299, "Admin", "TestingKey"},
-                  ['Sarquasm'] = {'Sarquasm', 4122597797, "Admin", "Key"}
+                  ['Sarquasm'] = {'Sarquasm', 4122597797, "Admin", "Key"},
+                  ['CLYPTS0'] = {'CLYPTS0'}, 2500757625, "Admin", "ExampleKey"}
                    
           },
 }
