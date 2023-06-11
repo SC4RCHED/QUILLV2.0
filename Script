@@ -687,6 +687,22 @@ CMDS.crystaldef = function(sender,args)
     end
 end
 
+CMDS.checkrank = function(sender,args)
+   if MemberP then
+      if args[1] then
+         local Target = GetPlayer(args[1])
+         if table.find(Database['Ranks'][Target.Name],Target.Name) then
+         local TargetRank = tostring(Database['Ranks']['Target.Name'][3])
+         print(Target.Name.." Returned as a "..TargetRank..".")
+         
+       else
+         print("Player is not a quill user")
+       end
+      end
+   end
+end
+
+
 CMDS.aciddef = function(sender,args)
     if MemberP == true then
         local ohString1 = "Aurora"
