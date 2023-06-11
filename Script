@@ -504,7 +504,7 @@ Players.PlayerRemoving:Connect(function(player)
     end
 end)
 
-coroutine.wrap(function()
+--[[coroutine.wrap(function()
     while task.wait(1) do
         print("a")
         rconsoleprint("\nEnter command here: ")
@@ -532,7 +532,7 @@ coroutine.wrap(function()
 
             end
     end
-end)()
+end)()--]]
 
 LocalPlayer.Chatted:Connect(function(message)
     message = string.lower(message)
