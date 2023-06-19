@@ -7,7 +7,7 @@ local data = {
                   ['CLYPTS0'] = {'CLYPTS0', 2500757625, "Admin", "ExampleKey"},
                   ['POH989'] = {'POH989', 1889277505, "Admin", "ExampleKey2"},
                   ['Adriano_Alt1'] = {'Adriano_Alt1', 4236160459, "VIP", "AdriAlt"},
-                  ['Adriano_Alt12'] = {'Adriano_Alt12', 4265529686, "VIP", "AdriAlt12}
+                  ['Adriano_Alt12'] = {'Adriano_Alt12', 4265529686, "VIP", "AdriAlt12"}
                    
           },
 }
