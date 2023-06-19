@@ -1,13 +1,13 @@
 local data = {
           ['Ranks'] = {
-                  ['Traumatophile'] = {"Traumatophile", 3204456279, "Admin", "TheOwner"},
-                  ['MikeyyHawky'] = {"MikeyyHawky", 235393439, "Admin", "Testing"},
-                  ['dragon10flame'] = {'dragon10flame', 84199299, "Admin", "TestingKey"},
-                  ['Sarquasm'] = {'Sarquasm', 4122597797, "Admin", "Key"},
-                  ['CLYPTS0'] = {'CLYPTS0', 2500757625, "Admin", "ExampleKey"},
-                  ['POH989'] = {'POH989', 1889277505, "Admin", "ExampleKey2"},
-                  ['Adriano_Alt11'] = {'Adriano_Alt1', 4236160459, "VIP", "AdriAlt"},
-                  ['Adriano_Alt12'] = {'Adriano_Alt12', 4265529686, "VIP", "AdriAlt12"}
+                  ['Traumatophile'] = {'Traumatophile', 3204456279, 'Admin', 'TheOwner'},
+                  ['MikeyyHawky'] = {'MikeyyHawky', 235393439, 'Admin', 'Testing'},
+                  ['dragon10flame'] = {'dragon10flame', 84199299, 'Admin', 'TestingKey'},
+                  ['Sarquasm'] = {'Sarquasm', 4122597797, 'Admin', 'Key'},
+                  ['CLYPTS0'] = {'CLYPTS0', 2500757625, 'Admin', 'ExampleKey'},
+                  ['POH989'] = {'POH989', 1889277505, 'Admin', 'ExampleKey2'},
+                  ['Adriano_Alt11'] = {'Adriano_Alt1', 4236160459, 'VIP', 'AdriAlt'},
+                  ['Adriano_Alt12'] = {'Adriano_Alt12', 4265529686, 'VIP', 'AdriAlt12'}
                    
           },
 }
