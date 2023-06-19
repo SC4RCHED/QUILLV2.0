@@ -374,6 +374,13 @@ sysmsg(
 
 task.wait()
 
+if table.find(Database['Ranks'][LocalPlayer.Name],LocalPlayer.Name) then
+    sysmsg("You are whitelisted.")
+    local rank = Database['Ranks'][LocalPlayer.Name][3]
+    sysmsg("Your rank is: "..rank..".")
+end
+
+local Rank = Database['Ranks'][LocalPlayer.Name][3]
 
 if Rank == "Admin" then
 	sysmsg("Adding permissions: Member, VIP, Admin.","Arial")
